@@ -1,0 +1,18 @@
+<html>
+<body>
+<table border=1 width=50% height=50% bgcolor="yellow" align="center">
+<tr bgcolor="light pink" align="center">
+	<th><fontsize=30>number</font></th>
+	<th>name</th>
+</tr>
+<tr bgcolor="lightgreen" align="center">
+	<td>1</td>
+	<td bgcolor="red">delhi</td>
+</tr>
+<tr bgcolor="lightpink" align="center">
+	<td>2</td>
+	<td>mumbai</td>
+</tr>
+</table>
+</body>
+</html>
