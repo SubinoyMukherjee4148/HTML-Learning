@@ -1,0 +1,16 @@
+<html>
+<body>
+<form>                                or   <form action="submit.php" method="GET">
+username:<input type="text"><br>
+password:<input type="password"><br>
+gender:<input type="radio"name="r1">male
+       <input type="radio"name="r1">female<br>
+language:<input type="checkbox">English
+         <input type="checkbox">Hindi
+         <input type="checkbox">Bengali<br>
+address:<text area></text area><br>
+<input type="submit"=submit"value="register">
+<input type="reset">
+</form>
+</body>
+</html>
